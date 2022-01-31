@@ -6,11 +6,12 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 @RestController
+@RequestMapping("/auth")
 public class RestCurrencyController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "Hello";
+        return "index";
 
     }
 
