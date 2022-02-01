@@ -242,7 +242,7 @@ General error: "java.lang.IllegalStateException: The file is locked: nio:D:/Trav
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1162)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1151)
-	at intetics.project.demo.TravellerApplication.main(TravellerApplication.java:9)
+	at TravellerApplication.main(TravellerApplication.java:9)
 Caused by: org.h2.jdbc.JdbcSQLException: Внутренняя ошибка: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]"
 General error: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]" [50000-193]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
@@ -350,7 +350,7 @@ General error: "java.lang.IllegalStateException: The file is locked: nio:D:/Trav
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1162)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1151)
-	at intetics.project.demo.TravellerApplication.main(TravellerApplication.java:9)
+	at TravellerApplication.main(TravellerApplication.java:9)
 Caused by: org.h2.jdbc.JdbcSQLException: Внутренняя ошибка: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]"
 General error: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]" [50000-193]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
@@ -458,7 +458,7 @@ General error: "java.lang.IllegalStateException: The file is locked: nio:D:/Trav
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1162)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1151)
-	at intetics.project.demo.TravellerApplication.main(TravellerApplication.java:9)
+	at TravellerApplication.main(TravellerApplication.java:9)
 Caused by: org.h2.jdbc.JdbcSQLException: Внутренняя ошибка: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]"
 General error: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]" [50000-193]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
@@ -566,7 +566,7 @@ General error: "java.lang.IllegalStateException: The file is locked: nio:D:/Trav
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1162)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1151)
-	at intetics.project.demo.TravellerApplication.main(TravellerApplication.java:9)
+	at TravellerApplication.main(TravellerApplication.java:9)
 Caused by: org.h2.jdbc.JdbcSQLException: Внутренняя ошибка: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]"
 General error: "java.lang.IllegalStateException: The file is locked: nio:D:/TravellerDemo/db.mv.db [1.4.193/7]" [50000-193]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)

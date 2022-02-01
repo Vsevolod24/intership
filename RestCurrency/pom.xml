@@ -37,6 +37,12 @@
         </dependency>
 
 <!--        <dependency>-->
+<!--            <groupId>org.springframework.security.oauth</groupId>-->
+<!--            <artifactId>spring-security-oauth2</artifactId>-->
+<!--            <version>2.3.4.RELEASE</version>-->
+<!--        </dependency>-->
+
+<!--        <dependency>-->
 <!--            <groupId>org.springframework.boot</groupId>-->
 <!--            <artifactId>spring-boot-starter-security</artifactId>-->
 <!--        </dependency>-->
@@ -50,6 +56,7 @@
             <artifactId>thymeleaf-spring5</artifactId>
             <version>3.0.11.RELEASE</version>
         </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
@@ -98,6 +105,11 @@
             <version>2.5.3</version>
             <scope>test</scope>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.security</groupId>-->
+<!--            <artifactId>spring-security-config</artifactId>-->
+<!--            <version>4.2.2.RELEASE</version>-->
+<!--        </dependency>-->
 
     </dependencies>
 
